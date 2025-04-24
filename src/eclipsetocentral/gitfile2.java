@@ -1,3 +1,5 @@
+package eclipsetocentral;
+
 public class gitfile2
 {
   public void assignmentoperator()
